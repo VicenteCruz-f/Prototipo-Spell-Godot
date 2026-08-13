@@ -1,0 +1,9 @@
+# Godot (funciona a cualquier profundidad)
+.godot/
+android/
+*.translation
+export_presets.cfg
+
+# Local
+.atl/
+.env
